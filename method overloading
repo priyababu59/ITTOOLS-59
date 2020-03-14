@@ -1,0 +1,18 @@
+#Concept of method overloading
+
+class Multiplication:
+
+    def product(self,a=None,b=None,c=None):
+        if  a and b and c is not None:
+            print(a*b*c)
+        elif a and b and c is not None:
+            print(a*b)
+            
+        
+
+        
+
+obj=Multiplication()
+obj.product()
+obj.product(4,5,6)
+obj.product(4,5)
