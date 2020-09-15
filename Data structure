@@ -1,4 +1,5 @@
  # Implement the following for Array:
+
 # Write a program to store the elements in 1-D array and provide an option 
 # to perform the operations like searching, sorting, merging, reversing the elements.
 arr1=[12,35,42,22,1,6,54]
